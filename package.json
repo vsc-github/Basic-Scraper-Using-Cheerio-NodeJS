@@ -12,7 +12,6 @@
   "author": "vicious",
   "license": "ISC",
   "dependencies" : {
-    "express" : "latest",
     "request" : "latest",
     "cheerio" : "latest"
   }
